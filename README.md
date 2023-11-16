@@ -1,7 +1,10 @@
 # ChatGPT Python Chat Application
 
-<img src="/img/JLdp_lg.png" alt="JLdp_Logo" width="auto" height="130">
-<img src="/img/openai-logomark.png" alt="ChatGPT_Logo" width="auto" height="130">
+<div>
+    <img src="/img/openai-white-logomark.png" alt="ChatGPT_Logo" width="auto" height="130">
+    <img src="/img/JLdp_lg.png" alt="JLdp_Logo" width="auto" height="130">
+    <img src="/img/openai-logomark.png" alt="ChatGPT_Logo" width="auto" height="130">
+</div>
 
 ## Description
 This Python chat application provides a ChatGPT-like experience by interacting with the OpenAI GPT-3 API. Users can input messages in the command line, and the application generates responses using the GPT-3 model.
