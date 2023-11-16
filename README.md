@@ -1,6 +1,6 @@
 # ChatGPT Python Chat Application
 
-![ChatGPT App](powered-by-openai-badge-filled-on-dark.svg)
+[![ChatGPT App](powered-by-openai-badge-filled-on-dark.svg)](https://www.openai.com/)
 
 ## Description
 This Python chat application provides a ChatGPT-like experience by interacting with the OpenAI GPT-3 API. Users can input messages in the command line, and the application generates responses using the GPT-3 model.
@@ -28,7 +28,7 @@ This Python chat application provides a ChatGPT-like experience by interacting w
     ```bash
     Create a config.json file in the project directory with the following content:
     {
-      "openai_api_key": "your_api_key_here"
+      "openai_api_key": "[YOUR_API_KEY_HERE]"
     }
     
 4. **Run the Application:**
