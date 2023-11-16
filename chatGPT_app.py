@@ -1,7 +1,10 @@
 import openai
+import json
 
-# Set your OpenAI GPT-3 API key
-openai.api_key = 'your_api_key_here'
+# Load OpenAI API key from config file
+with open('config.json') as config_file:
+    config = json.load(config_file)
+    openai.api_key = config["openai_api_key"]
 
 def generate_response(prompt):
     # Use the OpenAI API to generate a response
