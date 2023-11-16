@@ -1,0 +1,2 @@
+# Add external librarie(s) and their version here:
+openai==0.27.0
