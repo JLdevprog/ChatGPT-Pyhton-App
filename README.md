@@ -1,6 +1,6 @@
 # ChatGPT Python Chat Application
 
-![ChatGPT App](insert_link_to_chatgpt_image_here)
+![ChatGPT App](powered-by-openai-badge-filled-on-dark.svg)
 
 ## Description
 This Python chat application provides a ChatGPT-like experience by interacting with the OpenAI GPT-3 API. Users can input messages in the command line, and the application generates responses using the GPT-3 model.
