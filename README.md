@@ -1,6 +1,6 @@
 # ChatGPT Python Chat Application
 
-<img src="/img/JLdp_Lg.png" alt="JLdp_Logo" width="auto" height="130">
+<img src="/img/JLdp_lg.png" alt="JLdp_Logo" width="auto" height="130">
 <img src="/img/openai-logomark.png" alt="ChatGPT_Logo" width="auto" height="130">
 
 ## Description
